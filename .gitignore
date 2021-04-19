@@ -1,2 +1,6 @@
 # AWS Access Key File
 rootkey.csv
+valheim-backups-prodrole.csv
+
+# OS Files
+.DS_Store
