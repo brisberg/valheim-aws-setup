@@ -10,3 +10,6 @@ envsubst < docker-compose.tmpl.yaml | tee ~/docker-compose.yml
 
 # Install AWS CLI
 sudo apt install awscli
+
+# Schedule Backup cronjob
+crontab ./valheim-backup-crontab

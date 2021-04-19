@@ -22,3 +22,5 @@ export VAL_SERVER_PASS=ringo
 
 sh ~/valheim-aws-setup/bin/bootstrap.sh
 ```
+
+**NOTE** Does not appear to be working, as the script is executed a root. Might be fine but need to test again.
