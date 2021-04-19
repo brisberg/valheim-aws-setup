@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Archive Saves directory
 tar -czf Paradiso.tar.gz ~/valheim/saves --exclude=*.old
 

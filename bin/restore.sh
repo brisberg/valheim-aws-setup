@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Download backup from S3
 aws s3 cp s3://valheim-1-backups/Paradiso/Paradiso.tar.gz ~/Paradiso.tar.gz
 
