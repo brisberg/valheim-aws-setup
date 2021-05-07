@@ -18,7 +18,7 @@ git clone https://github.com/brisberg/valheim-aws-setup.git
 
 export VAL_SERVER_NAME=HoukagoSurvivalTime
 export VAL_SERVER_WORLD=Paradiso
-export VAL_SERVER_PASS=ringo
+export VAL_SERVER_PASS=<password>
 
 sh ~/valheim-aws-setup/bin/bootstrap.sh
 ```
