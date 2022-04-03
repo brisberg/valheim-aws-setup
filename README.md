@@ -2,7 +2,7 @@
 
 Configuration files to configure a Valheim private server on AWS.
 
-These scripts are taken from the official AWS Valheim hosting guide.
+These scripts are taken from the official AWS Valheim hosting guide. \
 https://aws.amazon.com/getting-started/hands-on/valheim-on-aws/
 
 ## Server Config
